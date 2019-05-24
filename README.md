@@ -1,5 +1,5 @@
 # Angular 2 Forms: Data Binding and Validation
-Coursework on Angular Basics
+Coursework on Angular Forms: Data Binding and Validation
 
 1. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
 
